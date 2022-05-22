@@ -1,5 +1,4 @@
 # prog_est_prog30
-El programa pide la cantidad de números enteros positivos a leer y después que introducen todos los números se hacen cálculos
 <p><b>Autor:</b> Xavier Romero Hernández, <b>Fecha:</b> 03/03/2022 <br>
   <b>Escuela:</b> Universidad del Valle de Mexico <b>Campus</b> Villahermosa<br>
   <b>Materia:</b> Programación Estructrada<br>
